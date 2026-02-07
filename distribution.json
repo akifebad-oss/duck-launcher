@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "servers": [
+    {
+      "id": "duckcraft",
+      "name": "DuckCraft Towny",
+      "description": "Vak Vak! DuckCraft Dünyasına Hoş Geldin.",
+      "icon": "https://raw.githubusercontent.com/akifebad-oss/duck-launcher/main/icon.png",
+      "address": "mc.duckcraft.com.tr:25565",
+      "version": "1.21.1",
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": []
+    }
+  ]
+}
